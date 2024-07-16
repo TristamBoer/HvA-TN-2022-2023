@@ -1,2 +1,2 @@
 # HvA-TN-2022-2023
-Python code from HvA Technische Natuurkunde year 1
+Code from HvA Technische Natuurkunde year 1
